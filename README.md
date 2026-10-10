@@ -17,3 +17,4 @@ The supplied base64 image string in the request appeared truncated, so this proj
 ## Notes
 - This is a WebView wrapper, not an offline native rewrite. The website and its backend must remain online.
 - The app does not contain Telegram bot tokens or backend secrets.
+# ZexiBot-Android
